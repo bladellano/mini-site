@@ -4,9 +4,9 @@
             serverUrl: 'https://chat-server.cdnssystems.com.br',
             webhookId: 'c45fc06e-c47d-4d26-8362-c3513b4bea0b',
             position: 'bottom-right',
-            primaryColor: '#5995f6',
-            botName: 'Paul IA Tester',
-            welcomeMessage: 'Oi! 👋 Sou o Paul, seu assistente virtual. Como posso ajudar?',
+            primaryColor: '#dc1054',
+            botName: 'Agent Gitlab + Jenkins',
+            welcomeMessage: 'Oi! 👋 Sou o Agent Gitlab + Jenkins, seu assistente virtual. Como posso ajudar?',
             placeholder: 'Pergunte-me qualquer coisa...',
             buttonIcon: '👨‍🦰'
         };
